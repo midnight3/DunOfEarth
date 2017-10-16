@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeons Of Earth", "Assembly-CSharp.csproj", "{EDE26E9F-7DB3-CD7A-481C-5F0602CC75E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeons Of Earth", "Assembly-CSharp-Editor.csproj", "{BC5EB600-3057-F2A8-D9ED-54483CEF6CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDE26E9F-7DB3-CD7A-481C-5F0602CC75E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE26E9F-7DB3-CD7A-481C-5F0602CC75E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE26E9F-7DB3-CD7A-481C-5F0602CC75E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE26E9F-7DB3-CD7A-481C-5F0602CC75E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5EB600-3057-F2A8-D9ED-54483CEF6CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5EB600-3057-F2A8-D9ED-54483CEF6CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5EB600-3057-F2A8-D9ED-54483CEF6CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5EB600-3057-F2A8-D9ED-54483CEF6CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
