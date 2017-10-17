@@ -90,8 +90,8 @@ MonoBehaviour:
     y: 0
     width: 330
     height: 578
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -357,19 +357,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Prefabs
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/sarahwelsch/Desktop/dunofearth/Dungeons Of Earth
+  m_LastProjectPath: /Users/sarahwelsch/Desktop/DunOfEarth/Dungeons Of Earth
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 322a0000
-    m_LastClickedID: 10802
-    m_ExpandedIDs: 00000000f629000000ca9a3bffffff7f
+    m_SelectedIDs: 08270000
+    m_LastClickedID: 9992
+    m_ExpandedIDs: 000000000827000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -397,7 +397,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f62900000e2a0000
+    m_ExpandedIDs: 0000000008270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -424,7 +424,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300002e270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -513,9 +513,9 @@ MonoBehaviour:
     height: 557
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b8d6feff
+    m_SelectedIDs: 4c270000
     m_LastClickedID: 0
-    m_ExpandedIDs: 50f3ffff00000000
+    m_ExpandedIDs: f8fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
